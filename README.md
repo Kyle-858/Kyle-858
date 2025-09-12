@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been making the shift from pursuing IT to a full-time career in frontend developement
+I've been making the shift from IT to a full-time career in frontend developement
 
 * 🌍  I'm based in Pennsylvania
 * ✉️  You can contact me at [krazykyle19@gmail.com](mailto:krazykyle19@gmail.com)
