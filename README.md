@@ -8,7 +8,7 @@ Passionate software engineer transitioning from an IT background to a full-time 
 
 * 🌍  I'm based in Pennsylvania
 * ✉️  You can contact me at [krazykyle19@gmail.com](mailto:krazykyle19@gmail.com)
-* 🧠  I'm currently learning Firebase
+* 🧠  I'm currently learning React Native
 * 💬  I've always been interested in understanding how / why things work, and I feel this makes me an excellent problem-solver
 
 <p align="left">
